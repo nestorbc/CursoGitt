@@ -1,3 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
-body{background-color:#929EFF;}
+body
+{
+	background-color:#929EFF;
+	font-weight: bold;
+	color:red;
+
+
+}
